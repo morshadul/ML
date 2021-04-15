@@ -10,3 +10,7 @@ we have successfully comitted second line.
 we have successfully comitted third line.
 
 we have successfully comitted fourth line.
+
+
+we have learned a lot about git.
+now we are able to use git and github.
