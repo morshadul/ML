@@ -1,5 +1,0 @@
-
-
-Now we can check different commits and its change.
-
-we are going to learn Diff Commands.
